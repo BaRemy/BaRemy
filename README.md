@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about my experiences with coding challenges, tech bootcamps, and my journey transitioning into the world of software engineering. I'm always happy to share my insights and learn from others.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn [Your LinkedIn Profile Link], or you can shoot me an email at [Your Email Address]. I'm excited to connect with fellow tech enthusiasts, potential collaborators, and mentors!
+📫 How to reach me: Feel free to connect with me on LinkedIn [www.linkedin.com/in/bahati-remy], or you can shoot me an email at [bahatiremy05@gmail.com]. I'm excited to connect with fellow tech enthusiasts, potential collaborators, and mentors!
 
 ⚡ Fun fact: When I'm not immersed in lines of code, you can find me exploring new hiking trails. Just like in coding, I love the thrill of discovering new paths and conquering challenges along the way!
